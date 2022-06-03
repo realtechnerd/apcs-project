@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/apcs-project/static/css/main.6a0c6f04.css",
+    "main.js": "/apcs-project/static/js/main.d999990e.js",
+    "index.html": "/apcs-project/index.html",
+    "main.6a0c6f04.css.map": "/apcs-project/static/css/main.6a0c6f04.css.map",
+    "main.d999990e.js.map": "/apcs-project/static/js/main.d999990e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a0c6f04.css",
+    "static/js/main.d999990e.js"
+  ]
+}
